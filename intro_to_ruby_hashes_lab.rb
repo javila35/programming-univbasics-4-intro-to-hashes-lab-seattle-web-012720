@@ -19,7 +19,7 @@ end
 def id_generator
   # return a hash with a key :id assigned to positive integer
   hash = {
-    :id = 1
+    :id => 1
   }
   p hash 
 end
