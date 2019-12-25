@@ -4,7 +4,7 @@ end
 
 def my_hash
   hash = {
-    symbol: value
+    :symbol => value
   }
   p hash
 end
